@@ -1,3 +1,4 @@
+--- Counter checking if I have the right data---
 SELECT*
 FROM PortfolioProjects..CovidDeaths
 WHERE continent is not Null
